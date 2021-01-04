@@ -1,1 +1,5 @@
-# hello
+/*========= globally select ===========*/
+*{
+    margin: 0;
+    padding: 0;
+}
